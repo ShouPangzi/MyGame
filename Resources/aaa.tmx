@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="i91" tilewidth="32" tileheight="32">
+  <image source="i91.png" width="256" height="288"/>
+ </tileset>
+ <layer name="块层 1" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzFy0dSQgEURNGviJgTRlBBkWDOiBnBtP8VeXbwBm9gV51R1y2K/9kEk5SYosw0FWYSf9TNMsc8CyyyxDIriT/qVlmjyjobbLLFduKPuh1q1Nllj30aNBN/1B1wSIsj2nTo0kv8UXfMCaeccc4Fl1wl/qi75oZb7rinzwODxB91jzzxzAuvvPHOMPFH3QcjxnzyxTc//Cb+qPsDp5omSg==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,25 @@
+{
+    "hero": [
+             {
+             "gold": 500,
+             "lv": 1,
+             "blood": 600,
+             "attack": 80,
+             "defense": 10,
+             "currentEXP":0,
+             "needEXP":[400,800,1500,2300,3200,4300,5400],
+             "skill1": "火风斩,挥剑劈砍，以的伤害攻击6次",
+             "skill2": "剑魂击,造成的伤害",
+             "skill3": "魔刀冢,巨剑穿地面，造成的伤害",
+             "skill4": "麒麟斩,麒麟剑气，造成的伤害",
+             "clothes": "img_clothes_0",
+             "weapen": "img_weapon_0",
+             "necklace": "img_shiping_0",
+             "stone": "baoshi",
+             "ourfighting":150,
+             "currentchapter":1,
+             "currentpass":1,
+             "skillInf":"inf"
+             }
+             ]
+}

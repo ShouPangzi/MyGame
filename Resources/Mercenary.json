@@ -1,0 +1,100 @@
+{
+    "Mercenary": [
+                 {
+                 "merc1": {
+                 "blood":7500,
+                 "attack": 500,
+                 "defense":100,
+                 "needBlood":4000,
+                 "needAttack":800,
+                 "needGlod":500,
+                 "name":"nvheiqishi",
+                 "skill1":"sk_0",
+                 "skill2":"sk_1",
+                 "locked":0,
+                 "pos":-1,
+                 "merinfo2":"小小"
+                 }
+                 }, 
+                 {
+                 "merc2":{
+                 "blood":8000,
+                 "attack": 200,
+                 "defense":100,
+                 "needBlood":3000,
+                 "needAttack":100,
+                 "needGlod":100,
+                 "name":"baiqishi",
+                 "skill1":"sk_2",
+                 "skill2":"sk_3",
+                 "locked":1,
+                 "pos":-1,
+                 "merinfo2":"小人"
+                 }
+                 },
+                 {
+                 "merc3": {
+                 "blood":8500,
+                 "attack": 400,
+                 "defense":300,
+                 "needBlood":4000,
+                 "needAttack":700,
+                 "needGlod":300,
+                 "name":"gedoujia",
+                 "skill1":"sk_4",
+                 "skill2":"sk_5",
+                  "locked":1,
+                  "pos":-1,
+                 "merinfo2":"大人"
+                 }
+                 },
+                  {
+                  "merc4": {
+                  "blood":9000,
+                  "attack": 400,
+                  "defense":300,
+                  "needBlood":4000,
+                  "needAttack":700,
+                  "needGlod":300,
+                  "name":"daizhu",
+                  "skill1":"sk_6",
+                  "skill2":"sk_7",
+                  "locked":1,
+                  "pos":-1,
+                  "merinfo2":"狂魔"
+                  }
+                  },
+                  {
+                  "merc5": {
+                  "blood":9000,
+                  "attack": 400,
+                  "defense":300,
+                  "needBlood":4000,
+                  "needAttack":700,
+                  "needGlod":300,
+                  "name":"kuluoshibing",
+                  "skill1":"sk_8",
+                  "skill2":"sk_9",
+                  "locked":1,
+                  "pos":-1,
+                  "merinfo2":"狂魔"
+                  }
+                  },
+                  {
+                  "merc6": {
+                  "blood":9000,
+                  "attack": 400,
+                  "defense":300,
+                  "needBlood":4000,
+                  "needAttack":700,
+                  "needGlod":300,
+                  "name":"meimo",
+                  "skill1":"sk_10",
+                  "skill2":"sk_11",
+                  "locked":1,
+                  "pos":-1,
+                  "merinfo2":"狂魔"
+                  }
+                  }
+                 ]
+}

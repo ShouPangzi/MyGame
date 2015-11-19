@@ -1,0 +1,88 @@
+{
+    "Monster": [
+                 {
+                 "mon1": {
+                 "blood":300,
+                 "attack":50,
+                 "name":"langren"
+                 }
+                 }, 
+                 {
+                 "mon2":{
+                 "blood":200,
+                 "attack": 50,
+                 "name":"longying"
+                 }
+                 },
+                 {
+                 "mon3": {
+                 "blood":300,
+                 "attack": 50,
+                 "name":"sadan"
+                 }
+                 },
+                  {
+                  "mon4": {
+                  "blood":300,
+                  "attack": 50,
+                  "name":"shirenmo"
+                  }
+                  },
+                  {
+                  "mon5": {
+                  "blood":300,
+                  "attack": 50,
+                  "name":"shiwang"
+                  }
+                  },
+                  {
+                  "mon6": {
+                  "blood":300,
+                  "attack": 60,
+                  "name":"xiyiwang"
+                  }
+                  },
+                  {
+                 "mon7":{
+                 "blood":300,
+                 "attack": 60,
+                 "name":"wanglingshushi"
+                  }
+                 },
+                {
+                "mon8":{
+                "blood":300,
+                "attack": 60,
+                "name":"walingbojue"
+                }
+                },
+                {
+                "mon9":{
+                "blood":300,
+                "attack": 60,
+                "name":"shourenwang"
+                }
+                },
+                {
+                "mon10":{
+                "blood":200,
+                "attack": 60,
+                "name":"shiwang"
+                }
+                },
+                {
+                "mon11":{
+                "blood":800,
+                "attack": 100,
+                "name":"wanglingqishi"
+                }
+                },
+                {
+                "mon12":{
+                "blood":1500,
+                "attack": 100,
+                "name":"shourenwang01"
+                }
+                }
+                 ]
+}
